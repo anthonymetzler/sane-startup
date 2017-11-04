@@ -1,4 +1,5 @@
-# Released under MIT License
+# Hyde & Poole License for Jekyll
+## Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
 
