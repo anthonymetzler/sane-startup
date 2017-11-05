@@ -1,14 +1,14 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink:        none
 
 # Setup
 title:            Sane Startups
-tagline:          'Run sane startups today'
-description:      'Startup culture has lost a lot of sensiblity, end the insanity now, and run sane startups today!'
+tagline:          'End the Insanity'
+description:      'Startup culture has lost its sensiblity, run sane startups today!'
 url:              https://sane-startup.com
 baseurl:          /
 
@@ -20,6 +20,6 @@ paginate:         5
 
 # Custom vars
 version:          1.1.0
-
+plugins:          [jekyll-paginate]
 github:
   repo:           https://github.com/anthonymetzler/sane-startup
