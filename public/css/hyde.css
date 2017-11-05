@@ -69,7 +69,8 @@ html {
     text-align: left;
   }
 }
-
+.sidebar-logo {
+}
 /* Sidebar links */
 .sidebar a {
   color: #fff;
