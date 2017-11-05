@@ -10,7 +10,7 @@ title:            Sane Startups
 tagline:          'End the Insanity'
 description:      'Startup culture has lost its sensiblity, run sane startups today!'
 url:              https://sane-startup.com
-baseurl:          /sane-startup
+baseurl:          /sane-startup/
 
 author:
   name:           'Anthony Metzler'
