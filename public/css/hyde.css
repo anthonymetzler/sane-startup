@@ -68,8 +68,13 @@ html {
     width: 18rem;
     text-align: left;
   }
+  .sidebar-logo {
+    display: inline;
+  }
 }
 .sidebar-logo {
+  margin: 0 auto;
+  max-width: 12rem;
 }
 /* Sidebar links */
 .sidebar a {
