@@ -104,6 +104,11 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+.sidebar-nav-icon {
+  display:inline-block;
+  line-height: 1.75;
+  padding-right: .25rem;
+}
 
 /* Sticky sidebar
  *

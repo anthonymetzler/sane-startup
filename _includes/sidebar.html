@@ -20,12 +20,21 @@
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <div>
+        <a class="sidebar-nav-icon" href="{{ site.facebook-page }}">
+          <i class="fa fa-facebook-square" aria-hidden="true"></i>
+        </a>
+        <a class="sidebar-nav-icon" href="{{ site.github.repo }}">
+          <i class="fa fa-github-square" aria-hidden="true"></i>
+        </a>
+        <a class="sidebar-nav-icon" href="{{ site.linkedin }}">
+          <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+        </a>
+      </div>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

@@ -23,3 +23,7 @@ version:          1.1.0
 plugins:          [jekyll-paginate]
 github:
   repo:           https://github.com/anthonymetzler/sane-startup
+  user:           https://github.com/anthonymetzler
+
+facebook-page:    https://www.facebook.com/sanestartup/
+linkedin:         https://www.linkedin.com/in/anthonymetzler/
