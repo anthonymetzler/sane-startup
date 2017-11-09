@@ -22,6 +22,7 @@ version:          1.1.0
 plugins:          
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 github:
   repo:           https://github.com/anthonymetzler/sane-startup
   user:           https://github.com/anthonymetzler
