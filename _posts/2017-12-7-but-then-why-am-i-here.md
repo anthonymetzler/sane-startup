@@ -2,7 +2,7 @@
 layout: post
 title: But, Then Why Am I Here?
 ---
-One of the biggest mistakes you can make when working with specialists, is to approach work estimations like a negotiation.
+One of the biggest mistakes you can make when working with specialists is to approach work estimations like a negotiation.
 
 Remember, this person was hired for their skillset and mastery of craft, so preemptively questioning their value is just going to piss them off.
 
@@ -12,9 +12,9 @@ My belief is that if you ask questions about the process then you'll better unde
 
 I am a firm believer in knowing a little bit about everything - it helps you better communicate with those you engage and identify parallels between systems.
 
-I think that when work estimates are hotly negotiated the result is a project inevitably running long or falling short.
+When work estimates are hotly negotiated, projects inevitably run long or fall short.
 
-Avoid pressuring someone into agreeing to a timeline that they already know is going to miss the mark, work estimations need to be as win-win as realistically possible.
+Avoid pressuring someone into agreeing to a timeline that they already know is going to miss the mark; work estimations need to be as win-win as realistically possible.
 
 Another popular attempt to resolve timeline problems is usually to "assign additional resources", however, quantity of labor has diminishing returns.
 
