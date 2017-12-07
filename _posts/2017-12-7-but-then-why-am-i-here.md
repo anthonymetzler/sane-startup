@@ -16,7 +16,7 @@ I think that when work estimates are hotly negotiated the result is a project in
 
 Avoid pressuring someone into agreeing to a timeline that they already know is going to miss the mark, work estimations need to be as win-win as realistically possible.
 
-Another popular attempt to resolve timeline problems is usually "assign more resources", however, quantity of labor has diminishing returns.
+Another popular attempt to resolve timeline problems is usually to "assign additional resources", however, quantity of labor has diminishing returns.
 
 You can't hire 100 contractors to successfully remodel a bathroom in an hour, but you can probably hire four to do it in 20 hours - right size the team to maximize efficiency.
 
