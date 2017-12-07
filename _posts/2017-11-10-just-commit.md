@@ -15,7 +15,7 @@ If not managed, healthy and sustainable practices will never take root, because 
 
 Using foresight is always best practice.
 
-My mantra is this: The decision I making now is setting a precedent for those who come after me; would I be satisfied if my fellow employee was completing this task in the same manner?
+My mantra is this: The decision I'm making now is setting a precedent for those who come after me; would I be satisfied if my fellow employee was completing this task in the same manner?
 
 Now executing best practices from the beginning is insanely difficult, because there is an upfront investment in documentation, building out processes, and configuring automation.
 
